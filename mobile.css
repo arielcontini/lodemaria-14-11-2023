@@ -82,7 +82,7 @@ header{
 .header--img{
   width: 100%;
   height: 960px;
-  background: url(./header-bg.webp);
+  background: url(./header--desktop.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
